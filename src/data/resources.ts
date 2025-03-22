@@ -906,14 +906,6 @@ export const resources: Resource[] = [
     tags: ["OSINT", "tools", "techniques", "case studies", "youtube"]
   },
   {
-    id: "invisible-online",
-    title: "How to Be Invisible Online Using Expert OSINT Techniques",
-    description: "David Bombal explains techniques and tools for maintaining online anonymity using OSINT methods.",
-    url: "https://www.youtube.com/watch?v=QzmWzslT6QM&t=3606s",
-    category: "techniques",
-    tags: ["OSINT", "anonymity", "privacy", "youtube", "David Bombal"]
-  },
-  {
     id: "instagram-osint",
     title: "Instagram OSINT for Private Accounts",
     description: "Cybersudo demonstrates methods for gathering information from private Instagram accounts using OSINT techniques.",
