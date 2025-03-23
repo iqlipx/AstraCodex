@@ -922,6 +922,30 @@ export const resources: Resource[] = [
     tags: ["OSINT", "tips", "quick guides", "short tutorials", "playlist"]
   },
   {
+    id: 'osint-framework-spanish',
+    title: 'OSINT Framework (Spanish)',
+    description: 'A Spanish-language playlist covering various Open Source Intelligence (OSINT) frameworks and methodologies.',
+    url: 'https://www.youtube.com/playlist?list=PL1Kv5m-HTbQzxQd--mDXRjsR1ddqRk0aE',
+    category: 'techniques',
+    tags: ['OSINT', 'framework', 'Spanish', 'YouTube', 'playlist']
+  },
+  {
+    id: 'free-osint-training-courses',
+    title: 'FREE OSINT Training Courses',
+    description: 'A collection of free training courses on Open Source Intelligence (OSINT) techniques and tools.',
+    url: 'https://www.youtube.com/playlist?list=PLqM63j87R5p6dZeq1l_EIPP6NkJi51wET',
+    category: 'techniques',
+    tags: ['OSINT', 'training', 'courses', 'YouTube', 'playlist']
+  },
+  {
+    id: 'complete-osint-exercises-walkthroughs',
+    title: 'Complete OSINT Exercises Walkthroughs - Gralhix',
+    description: 'Comprehensive walkthroughs of OSINT exercises provided by Gralhix.',
+    url: 'https://www.youtube.com/playlist?list=PLwFbKk71Xo1y6OnyZRt65A2CVKC_Eoiqh',
+    category: 'techniques',
+    tags: ['OSINT', 'exercises', 'walkthroughs', 'Gralhix', 'YouTube', 'playlist']
+  },
+  {
     id: "discord-osint",
     title: "Deep Dive into Discord OSINT Techniques",
     description: "An in-depth guide on using OSINT techniques for investigating Discord platforms.",
